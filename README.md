@@ -43,6 +43,12 @@ Advanced Custom Fields
 Imsanity
 アップロード時に大きな画像をリサイズしてくれる
 
+WP User Avatar
+プロフィール画像の変更（Gravatarが使いづらい・・・）
+
+Admin Columns
+管理画面のカスタマイズ、スラッグ見せたりPV見せたり
+
 --------------------
 
 【便利】
